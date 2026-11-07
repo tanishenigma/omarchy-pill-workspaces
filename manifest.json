@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "tanishenigma.pill-workspaces",
+  "name": "Pill Workspaces",
+  "version": "1.0.0",
+  "author": "tanishenigma",
+  "description": "Workspace indicator: active workspace as a wide pill, others as ring dots",
+  "kinds": ["bar-widget"],
+  "entryPoints": { "barWidget": "Workspaces.qml" },
+  "barWidget": {
+    "displayName": "Pill Workspaces",
+    "description": "Active workspace as a wide pill, others as ring dots",
+    "category": "Compositor",
+    "allowMultiple": false
+  }
+}
