@@ -2,6 +2,10 @@
 
 A bar widget for the Omarchy shell. The active workspace shows as a wide pill and the other workspaces as small ring dots. The pill animates between them as you switch.
 
+![Pill Workspaces demo](assets/demo.gif)
+
+![Pill Workspaces screenshot](assets/screenshot.png)
+
 - Follows your Omarchy theme colors
 - Hover expands a dot into a pill
 - Urgent workspaces turn red
