@@ -25,6 +25,21 @@ Then swap it in for the stock widget:
 omarchy plugin disable omarchy.workspaces
 ```
 
+## Remove
+
+```bash
+omarchy plugin remove tanishenigma.pill-workspaces
+omarchy plugin enable omarchy.workspaces
+```
+
+## Dependencies
+
+None beyond Omarchy itself (Omarchy shell on Hyprland). The plugin doesn't edit any of your config files; it only adds itself to the bar when you enable it.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
+
 ## Credit
 
 Based on the stock `omarchy.workspaces` widget from [Omarchy](https://omarchy.org).
